@@ -38,6 +38,6 @@ body {
     
   
 }
-.btn:hover,.img:hover{
+.btn,.img:hover{
     font-size:150%;
 }
