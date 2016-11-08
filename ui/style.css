@@ -35,3 +35,7 @@ body {
     text-transform: uppercase;
   
 }
+.btn.hover{
+    font-size:150%;
+}
+}
