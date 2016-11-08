@@ -22,7 +22,7 @@ body {
     height: 100px;
     transition-property:all;
     transition-timing-function:ease-in;
-    transition-duration:0.3s;
+    transition-duration:0.2s;
 }
 
 .btn {
