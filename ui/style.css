@@ -19,7 +19,7 @@ body {
 }
 
 .img-medium {
-    height: auto;
+    height: 100px;
     transition-timing-function:ease-in-out;
     transition-duration:0.2s;
 }
