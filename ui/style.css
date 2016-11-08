@@ -21,6 +21,13 @@ h1
     left:0;
     text-indent:10px;
 }
+h2
+{
+    border-bottom:2px solid white;
+    font-family:Century Schoolbook;
+    color:lightblue;
+    text-indent:10px;
+}
 
 .bold {
     font-weight: bold;
