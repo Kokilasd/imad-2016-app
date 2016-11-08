@@ -45,6 +45,5 @@ body {
 }
 img:hover
 {
-    height:auto;
-    width:150px;
+    height:150px;
 }
