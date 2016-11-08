@@ -21,8 +21,8 @@ body {
 .img-medium {
     height: 100px;
     transition-property:all;
-    transition-timing-function:ease-in-out;
-    transition-duration:0.2s;
+    transition-timing-function:ease-in;
+    transition-duration:0.3s;
 }
 
 .btn {
@@ -46,5 +46,5 @@ body {
 img:hover
 {
     height:auto;
-    width:200px;
+    width:150px;
 }
