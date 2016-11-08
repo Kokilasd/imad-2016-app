@@ -13,6 +13,7 @@ body {
 }
 h1
 {
+    border-bottom:2px linear-gradient(45deg, rgba(255,184,115,0.65) 0%,rgba(255,124,189,0.65) 50%,rgba(108,0,153,0.65) 100%);
     font-family:Century Schoolbook;
     color:lightblue;
     position:fixed;
