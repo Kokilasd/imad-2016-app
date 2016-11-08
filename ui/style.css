@@ -20,6 +20,7 @@ body {
 
 .img-medium {
     height: 100px;
+    transition-property:all;
     transition-timing-function:ease-in-out;
     transition-duration:0.2s;
 }
@@ -44,5 +45,6 @@ body {
 }
 img:hover
 {
+    height:auto;
     width:200px;
 }
